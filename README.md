@@ -1,58 +1,40 @@
-# 👋 Hi, my name is Nuno!
+# Hi, I'm Nuno
 
-I'm an aspiring dev, improving my skills in **Web Development** and building small projects to gain experience.  
-I have a little bit of knowledge of **HTML, CSS, and JavaScript**, plus some experience using **Python** for simple scripts and automation.  
-I also created websites and apps with **No-Code tools** like Wix, WordPress, PowerApps, and MIT App Inventor.
+Self-taught developer based in Portugal, working my way into the industry.
 
----
+I started a Computer Engineering degree, didn't finish for reasons I'm not proud of but have made peace with. Life took me through 7 years managing a pizza restaurant — which taught me more about process, people, and problem-solving than I expected. Now I'm building the skills I always wanted to have, one project at a time.
 
-## 🚀 About Me
-- 🌱 Currently working on my front-end development skills  
-- 🌐 Comfortable with HTML, CSS, and JavaScript  
-- 🐍 Some experience writing Python scripts and utilities  
-- ⚙️ No-Code experience: Wix, WordPress, PowerApps, MIT App Inventor  
-- 🎯 Interested in: Front-end development, automation, and building functional applications
-- 🎮 Aspiring game-dev, learning Unity and C#
+My background is a bit of an odd mix: HTML/CSS/JS on the front-end, Python for automation, and real-world experience with No-Code tools like WordPress, Wix, and PowerApps. I like building things that actually solve problems — even small ones.
 
 ---
 
-## 🛠️ Skills & Tools
+## Projects
 
-### **Web Development**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-</p>
+### Employee hours calculator · Python
 
-### **Programming**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-</p>
+Takes a `.txt` file with employee clock-in/out records, detects missing punches, and outputs a formatted `.xlsx` with one sheet per employee and total hours worked. Built to solve a real problem at my workplace.
 
-### **No-Code / Low-Code**
-<p>
-  <img src="https://img.shields.io/badge/Wix-000?logo=wix&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PowerApps-742774?logo=powerapps&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MIT%20App%20Inventor-FF6F00?style=for-the-badge" />
-</p>
-
-### **Other Tools**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-</p>
+*More projects on the way.*
 
 ---
 
-## 📊 GitHub Stats
+## Currently learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuno1993r&show_icons=true)
+Focused on front-end development — working towards a first junior role. Also exploring Unity and C# on the side because game dev has always been something I want to try properly.
 
 ---
 
-## 📫 Contact
-- Email: nuno1993r@gmail.com
-- Portfolio: *(coming soon)*  
+## Skills
+
+| | |
+|---|---|
+| **Web** | HTML · CSS · JavaScript |
+| **Programming** | Python |
+| **No-code / Low-code** | WordPress · Wix · PowerApps · MIT App Inventor |
+| **Tools** | Git · GitHub · VS Code |
+
+---
+
+## Contact
+
+nuno1993r@gmail.com
